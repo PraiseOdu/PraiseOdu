@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-  - [Active directory home lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active directory home lab](https://github.com/PraiseOdu/ActiveDirectoryBasics/tree/main)
 
 
 <h2>📃 Certifications</h2>
