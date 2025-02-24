@@ -7,9 +7,9 @@
 
 <h2>📃 Certifications</h2>
 
-- [Google IT Support Professional]
-- [Certified In Cybersecurity ]
-- [Aptech Hardware Specialist]
+- Google IT Support Professional
+- Certified In Cybersecurity 
+- Aptech Hardware Specialist
 
 
 
